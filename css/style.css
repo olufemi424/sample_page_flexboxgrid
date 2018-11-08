@@ -167,43 +167,43 @@ img {
   margin-bottom: 40px;
 }
 
-#services ul li {
+.services ul li {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-#services ul li:nth-child(odd) {
+.services ul li:nth-child(odd) {
   background: #333;
   color: #fff;
   padding: 10px;
 }
 
-#services ul li:nth-child(even) {
+.services ul li:nth-child(even) {
   background: #cf6915;
   color: #fff;
   padding: 10px;
 }
 
 /* contact */
-#contact form {
+.contact form {
   background: #333;
   color: #fff;
   padding: 20px;
 }
 
-#contact form input[type="text"] {
+.contact form input[type="text"] {
   width: 50%;
   height: 30px;
   margin-bottom: 10px;
 }
 
-#contact form textarea {
+.contact form textarea {
   width: 50%;
   height: 100px;
 }
 
-#contact form button {
+.contact form button {
   width: 50%;
   padding: 10px 0;
   border: 0;
@@ -212,7 +212,7 @@ img {
   font-size: 16px;
 }
 
-#contact form label {
+.contact form label {
   text-transform: uppercase;
 }
 
